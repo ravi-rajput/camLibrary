@@ -1,0 +1,3 @@
+include ':camLibrary'
+include ':app'
+rootProject.name = "myLibrary"
